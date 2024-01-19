@@ -53,7 +53,7 @@ const NumberInputPage = ({ phoneNumber, setPhoneNumber, handleSubmit }) => {
                     handleSubmit();
                 }}
             >
-                <label htmlFor="number"></label>
+                <label htmlFor="number">Number</label>
                 <input
                     type="number"
                     name="number"
